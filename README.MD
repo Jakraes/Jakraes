@@ -14,9 +14,11 @@ I'm Jakraes, a CS student with a passion for low level languages like C, despite
 - 99999 roguelikes
 
 # 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakraes&layout=donut&show_icons=true&theme=neon" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jakraes&show_icons=true&theme=neon" />
-</a>
+<div style="display:flex;gap:2em">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakraes&layout=donut&show_icons=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jakraes&show_icons=true&theme=github_dark" />
+  </a>
+</div>
