@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/cDLp6Hk/You-re-dereferencing-a-null-pointer-ezgif-com-crop.gif" style="width:100%">
+<img src="https://i.ibb.co/cDLp6Hk/You-re-dereferencing-a-null-pointer-ezgif-com-crop.gif" style="width: 100%; height: auto;" />
 
 # Hey there! 🧙‍♂️
 I'm **Jakraes**, a CS student with a passion for low level languages like **C**, despite trying other languages I prefer the simplicity that **C** offers.
