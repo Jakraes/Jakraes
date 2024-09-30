@@ -1,3 +1,5 @@
+<img src="https://ibb.co/92SjmGy" style="width:100%">
+
 # Hey there! 🧙‍♂️
 I'm Jakraes, a CS student with a passion for low level languages like C, despite trying other languages I prefer the simplicity that C offers.
 
